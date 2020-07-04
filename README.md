@@ -1,3 +1,2 @@
 # Cloud Networking - UIUC 
-
-Contains codes for Assignments of University of Illinois Urbana-Champaign course on Cloud Networking
+Contains codes of Assignments of Cloud Networking course by University of California San Diego.
